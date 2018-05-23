@@ -7,7 +7,6 @@ metadata:
     tags: microservice,jboss,spring
   name: coolstore
 objects:
-# UI
  - apiVersion: v1
    kind: ImageStream
   metadata:
