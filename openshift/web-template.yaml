@@ -11,7 +11,7 @@ objects:
    kind: ImageStream
   metadata:
    name: web-ui
-    labels:
+   labels:
       app: coolstore
       component: web-ui
    spec:
